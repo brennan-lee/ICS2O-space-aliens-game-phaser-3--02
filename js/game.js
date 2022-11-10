@@ -27,6 +27,6 @@
        autocenter: phaser.scale.CENTER_BOTH
     },
 },
-  const game = new Phaser.Game(config);
-  console.log(game);
+  const game = new Phaser.Game(config)
+  console.log(game)
   
